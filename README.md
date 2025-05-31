@@ -83,4 +83,4 @@ First version addressing basic interaction issues with Operator.
 3. In General, copy text to `Custom Instructions`
 
 ## License
-Feel free to use and modify these instructions for your own use.
+Feel free to use and modify these instructions for your own use. 
